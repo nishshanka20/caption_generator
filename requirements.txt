@@ -1,0 +1,20 @@
+# file: requirements.txt
+
+# Machine Learning
+torch
+torchvision
+torchaudio
+transformers
+peft
+bitsandbytes
+accelerate
+Pillow
+ultralytics
+pandas
+datasets
+sentence-transformers
+
+# FastAPI Web Server
+fastapi
+uvicorn[standard]
+python-multipart

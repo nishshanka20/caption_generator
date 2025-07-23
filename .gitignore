@@ -1,0 +1,35 @@
+
+blip_env/
+
+# Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment variables file
+.env
+
+blip-finetuned-model/
+
+# Ignore all PyTorch model weight files (.pt, .pth)
+*.pt
+*.pth
+
+# Ignore large dataset zip files
+*.zip
+
+# Ignore folders with test images or unzipped datasets
+test_images/
+carparts-seg/
+
+runs/
+
+# Ignore Jupyter/Colab notebook checkpoints
+.ipynb_checkpoints/
+
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db

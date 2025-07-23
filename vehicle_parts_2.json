@@ -1,0 +1,3239 @@
+{
+    "wahanaya": [
+        "car",
+        "vehicle",
+        "wahana",
+        "wahanayak",
+        "vehicle eka",
+        "car eka",
+        "vehicles",
+        "cars"
+    ],
+    "motor rathaya": [
+        "motor car",
+        "car",
+        "motor rathayak",
+        "motor car eka",
+        "cars",
+        "motor cars"
+    ],
+    "jeepaya": [
+        "jeep",
+        "suv",
+        "jeep eka",
+        "suv eka",
+        "jeeps",
+        "suvs"
+    ],
+    "van ekak": [
+        "van",
+        "van eka",
+        "vans"
+    ],
+    "loriya": [
+        "lorry",
+        "truck",
+        "lorry eka",
+        "truck eka",
+        "lorries",
+        "trucks"
+    ],
+    "bus ekak": [
+        "bus",
+        "bus eka",
+        "buses"
+    ],
+    "yathurapadiya": [
+        "motorbike",
+        "motorcycle",
+        "bike",
+        "yathurapadiyak",
+        "motorbike eka",
+        "motorcycle eka",
+        "bikes"
+    ],
+    "thriroda rathaya": [
+        "three-wheeler",
+        "auto-rickshaw",
+        "tuk-tuk",
+        "thriroda rathayak",
+        "three wheeler",
+        "bajaj",
+        "tuk"
+    ],
+    "kab ekak": [
+        "cab",
+        "pickup truck",
+        "cab eka",
+        "pickup",
+        "pickup eka",
+        "cabs",
+        "pickup trucks"
+    ],
+    "koupaya": [
+        "coupe",
+        "coupe eka",
+        "coupes"
+    ],
+    "sedanaya": [
+        "sedan",
+        "sedan eka",
+        "sedans"
+    ],
+    "hachbek": [
+        "hatchback",
+        "hatchback eka",
+        "hatchbacks"
+    ],
+    "convertible ekak": [
+        "convertible",
+        "convertible eka",
+        "soft top",
+        "cabriolet"
+    ],
+    "sport car": [
+        "sports car",
+        "sport car eka",
+        "performance car",
+        "sports cars"
+    ],
+    "super car": [
+        "super car",
+        "supercar",
+        "exotic car",
+        "super car eka"
+    ],
+    "hyper car": [
+        "hyper car",
+        "hypercar",
+        "hyper car eka"
+    ],
+    "limousine ekak": [
+        "limousine",
+        "limo",
+        "limousine eka"
+    ],
+    "ambulance ekak": [
+        "ambulance",
+        "ambulance eka"
+    ],
+    "gini niwana rathaya": [
+        "fire engine",
+        "fire truck",
+        "fire truck eka"
+    ],
+    "tractor ekak": [
+        "tractor",
+        "tractor eka",
+        "tractors"
+    ],
+    "trailer ekak": [
+        "trailer",
+        "trailer eka",
+        "trailers"
+    ],
+    "engine ekak": [
+        "engine",
+        "motor",
+        "engine eka",
+        "engines"
+    ],
+    "piston ekak": [
+        "piston",
+        "piston eka",
+        "pistons",
+        "piston set"
+    ],
+    "cylinder ekak": [
+        "cylinder",
+        "cylinder eka",
+        "cylinders",
+        "engine cylinder"
+    ],
+    "spark plug": [
+        "spark plug",
+        "spark plug eka",
+        "spark plugs",
+        "ignition plug"
+    ],
+    "radiator ekak": [
+        "radiator",
+        "radiator eka",
+        "engine cooling",
+        "radiators"
+    ],
+    "fan belt ekak": [
+        "fan belt",
+        "fan belt eka",
+        "engine belt",
+        "fan belts"
+    ],
+    "timing belt ekak": [
+        "timing belt",
+        "timing belt eka",
+        "cam belt",
+        "timing belts"
+    ],
+    "battery ekak": [
+        "battery",
+        "car battery",
+        "battery eka",
+        "batteries"
+    ],
+    "alternator ekak": [
+        "alternator",
+        "alternator eka",
+        "charging system",
+        "alternators"
+    ],
+    "starter motor ekak": [
+        "starter motor",
+        "starter",
+        "starter motor eka",
+        "starter motors"
+    ],
+    "air filter ekak": [
+        "air filter",
+        "air filter eka",
+        "engine air filter",
+        "air filters"
+    ],
+    "oil filter ekak": [
+        "oil filter",
+        "oil filter eka",
+        "engine oil filter",
+        "oil filters"
+    ],
+    "fuel filter ekak": [
+        "fuel filter",
+        "fuel filter eka",
+        "petrol filter",
+        "diesel filter",
+        "fuel filters"
+    ],
+    "fuel pump ekak": [
+        "fuel pump",
+        "fuel pump eka",
+        "petrol pump",
+        "diesel pump",
+        "fuel pumps"
+    ],
+    "injection pump ekak": [
+        "injection pump",
+        "injection pump eka",
+        "diesel pump",
+        "injection pumps"
+    ],
+    "injector ekak": [
+        "injector",
+        "fuel injector",
+        "injector eka",
+        "injectors"
+    ],
+    "carburetor ekak": [
+        "carburetor",
+        "carb",
+        "carburetor eka",
+        "carburetors"
+    ],
+    "throttle body ekak": [
+        "throttle body",
+        "throttle body eka",
+        "throttle",
+        "throttle bodies"
+    ],
+    "manifold ekak": [
+        "manifold",
+        "intake manifold",
+        "exhaust manifold",
+        "manifold eka"
+    ],
+    "exhaust pipe ekak": [
+        "exhaust pipe",
+        "exhaust",
+        "silencer pipe",
+        "exhaust pipe eka"
+    ],
+    "muffler ekak": [
+        "muffler",
+        "silencer",
+        "exhaust silencer",
+        "muffler eka",
+        "silencer eka"
+    ],
+    "catalytic converter ekak": [
+        "catalytic converter",
+        "catalytic converter eka",
+        "catalytic"
+    ],
+    "turbocharger ekak": [
+        "turbocharger",
+        "turbo",
+        "turbocharger eka",
+        "turbo eka"
+    ],
+    "supercharger ekak": [
+        "supercharger",
+        "supercharger eka"
+    ],
+    "intercooler ekak": [
+        "intercooler",
+        "intercooler eka",
+        "turbo intercooler"
+    ],
+    "gear box ekak": [
+        "gearbox",
+        "transmission",
+        "gear box eka",
+        "gearbox eka",
+        "auto gear",
+        "manual gear"
+    ],
+    "clutch ekak": [
+        "clutch",
+        "clutch plate",
+        "clutch kit",
+        "clutch eka"
+    ],
+    "propeller shaft ekak": [
+        "propeller shaft",
+        "driveshaft",
+        "prop shaft",
+        "propeller shaft eka"
+    ],
+    "axle ekak": [
+        "axle",
+        "axle shaft",
+        "axle eka",
+        "axles"
+    ],
+    "differential ekak": [
+        "differential",
+        "diff",
+        "differential eka"
+    ],
+    "CV joint ekak": [
+        "cv joint",
+        "constant-velocity joint",
+        "cv joint eka"
+    ],
+    "rodhaya": [
+        "wheel",
+        "tire",
+        "tyre",
+        "rodha",
+        "wheel eka"
+    ],
+    "tayara": [
+        "tire",
+        "tyre",
+        "tayara eka",
+        "tires",
+        "tyres"
+    ],
+    "rim ekak": [
+        "rim",
+        "wheel rim",
+        "rim eka",
+        "rims"
+    ],
+    "hubcap ekak": [
+        "hubcap",
+        "wheel cover",
+        "hubcap eka",
+        "hubcaps"
+    ],
+    "alloy wheel": [
+        "alloy wheel",
+        "alloy",
+        "alloy wheel eka",
+        "alloys",
+        "alloy wheels"
+    ],
+    "brekaya": [
+        "brake",
+        "brakes",
+        "brake system",
+        "brek"
+    ],
+    "brake pad ekak": [
+        "brake pad",
+        "brake pads",
+        "disc brake pad",
+        "brake pad eka"
+    ],
+    "brake shoe ekak": [
+        "brake shoe",
+        "brake shoes",
+        "drum brake shoe",
+        "brake shoe eka"
+    ],
+    "brake disc ekak": [
+        "brake disc",
+        "brake rotor",
+        "disc",
+        "brake disc eka"
+    ],
+    "brake drum ekak": [
+        "brake drum",
+        "drum",
+        "brake drum eka"
+    ],
+    "brake caliper ekak": [
+        "brake caliper",
+        "caliper",
+        "brake caliper eka",
+        "calipers"
+    ],
+    "master cylinder ekak": [
+        "master cylinder",
+        "brake master cylinder",
+        "clutch master cylinder",
+        "master cylinder eka"
+    ],
+    "brake fluid": [
+        "brake fluid",
+        "brake oil",
+        "brake fluid eka"
+    ],
+    "hand brake ekak": [
+        "handbrake",
+        "parking brake",
+        "hand brake",
+        "hand brake eka"
+    ],
+    "sukanama": [
+        "steering wheel",
+        "steering",
+        "sukanama eka"
+    ],
+    "steering rack ekak": [
+        "steering rack",
+        "power steering rack",
+        "steering rack eka"
+    ],
+    "power steering pump ekak": [
+        "power steering pump",
+        "power steering pump eka"
+    ],
+    "shock absorber ekak": [
+        "shock absorber",
+        "damper",
+        "shocks",
+        "shock absorber eka"
+    ],
+    "suspension spring ekak": [
+        "suspension spring",
+        "coil spring",
+        "spring",
+        "suspension spring eka"
+    ],
+    "leaf spring ekak": [
+        "leaf spring",
+        "dunupata",
+        "leaf spring eka"
+    ],
+    "chassis ekak": [
+        "chassis",
+        "frame",
+        "chassis eka",
+        "chassy"
+    ],
+    "body ekak": [
+        "body",
+        "car body",
+        "body eka",
+        "vehicle body"
+    ],
+    "bonet ekak": [
+        "bonnet",
+        "hood",
+        "bonet eka"
+    ],
+    "dicky ekak": [
+        "boot",
+        "trunk",
+        "dicky",
+        "dicky eka"
+    ],
+    "dora": [
+        "door",
+        "car door",
+        "dora eka",
+        "doors"
+    ],
+    "janelaya": [
+        "window",
+        "car window",
+        "janelaya eka"
+    ],
+    "windscreen ekak": [
+        "windscreen",
+        "windshield",
+        "front glass",
+        "windscreen eka"
+    ],
+    "rear windscreen ekak": [
+        "rear windscreen",
+        "rear window",
+        "rear glass",
+        "rear windscreen eka"
+    ],
+    "side mirror ekak": [
+        "side mirror",
+        "wing mirror",
+        "door mirror",
+        "side mirror eka"
+    ],
+    "rear view mirror ekak": [
+        "rear-view mirror",
+        "inside mirror",
+        "rear view mirror eka"
+    ],
+    "bumper ekak": [
+        "bumper",
+        "front bumper",
+        "rear bumper",
+        "bumper eka"
+    ],
+    "grill ekak": [
+        "grille",
+        "front grille",
+        "grill",
+        "grill eka"
+    ],
+    "headlight ekak": [
+        "headlight",
+        "headlamp",
+        "head light",
+        "headlight eka"
+    ],
+    "tail light ekak": [
+        "taillight",
+        "tail lamp",
+        "rear light",
+        "tail light eka"
+    ],
+    "indicator light ekak": [
+        "indicator light",
+        "turn signal",
+        "signal light",
+        "indicator light eka"
+    ],
+    "fog lamp ekak": [
+        "fog lamp",
+        "fog light",
+        "fog lamp eka"
+    ],
+    "wiper blade ekak": [
+        "wiper blade",
+        "wiper",
+        "windscreen wiper",
+        "wiper blade eka"
+    ],
+    "antenna ekak": [
+        "antenna",
+        "radio antenna",
+        "antenna eka"
+    ],
+    "mudguard ekak": [
+        "mudguard",
+        "fender",
+        "mud flap",
+        "mudguard eka"
+    ],
+    "license plate ekak": [
+        "license plate",
+        "number plate",
+        "license plate eka",
+        "number plate eka"
+    ],
+    "asanaya": [
+        "seat",
+        "car seat",
+        "asanaya eka",
+        "seats"
+    ],
+    "driver seat ekak": [
+        "driver's seat",
+        "driver seat",
+        "driving seat",
+        "driver seat eka"
+    ],
+    "passenger seat ekak": [
+        "passenger seat",
+        "passenger seat eka"
+    ],
+    "back seat ekak": [
+        "back seat",
+        "rear seat",
+        "back seat eka"
+    ],
+    "seat belt ekak": [
+        "seat belt",
+        "safety belt",
+        "seat belt eka"
+    ],
+    "airbag ekak": [
+        "airbag",
+        "srs airbag",
+        "airbag eka"
+    ],
+    "dashboard ekak": [
+        "dashboard",
+        "instrument panel",
+        "dash",
+        "dashboard eka"
+    ],
+    "speedometer ekak": [
+        "speedometer",
+        "speed meter",
+        "speedometer eka"
+    ],
+    "odometer ekak": [
+        "odometer",
+        "mileage meter",
+        "odometer eka"
+    ],
+    "tachometer ekak": [
+        "tachometer",
+        "rev counter",
+        "rpm meter",
+        "tachometer eka"
+    ],
+    "fuel gauge ekak": [
+        "fuel gauge",
+        "fuel meter",
+        "fuel gauge eka"
+    ],
+    "temperature gauge ekak": [
+        "temperature gauge",
+        "temp meter",
+        "temperature gauge eka"
+    ],
+    "warning light ekak": [
+        "warning light",
+        "check engine light",
+        "warning light eka"
+    ],
+    "gear lever ekak": [
+        "gear lever",
+        "gear stick",
+        "shifter",
+        "gear lever eka"
+    ],
+    "hand brake lever ekak": [
+        "handbrake lever",
+        "hand brake lever eka"
+    ],
+    "accelerator pedal ekak": [
+        "accelerator pedal",
+        "gas pedal",
+        "accelerator",
+        "accelerator pedal eka"
+    ],
+    "brake pedal ekak": [
+        "brake pedal",
+        "brake pedal eka"
+    ],
+    "clutch pedal ekak": [
+        "clutch pedal",
+        "clutch pedal eka"
+    ],
+    "horn_ekak": [
+        "horn",
+        "horn eka",
+        "car horn"
+    ],
+    "radio_ekak": [
+        "radio",
+        "stereo",
+        "car stereo",
+        "radio eka"
+    ],
+    "speaker_ekak": [
+        "speaker",
+        "car speaker",
+        "speaker eka",
+        "speakers"
+    ],
+    "air_conditioner_ekak": [
+        "air conditioner",
+        "ac",
+        "a/c",
+        "air conditioner eka",
+        "aircon"
+    ],
+    "heater_ekak": [
+        "heater",
+        "car heater",
+        "heater eka"
+    ],
+    "glove_box_ekak": [
+        "glove box",
+        "glove compartment",
+        "glove box eka"
+    ],
+    "sun_visor_ekak": [
+        "sun visor",
+        "sun visor eka"
+    ],
+    "floor_mat_ekak": [
+        "floor mat",
+        "car mat",
+        "floor mat eka",
+        "floor mats"
+    ],
+    "petrol": [
+        "petrol",
+        "gasoline",
+        "gas"
+    ],
+    "diesel": [
+        "diesel"
+    ],
+    "engine_oil": [
+        "engine oil",
+        "motor oil",
+        "engine oil eka"
+    ],
+    "coolant_ekak": [
+        "coolant",
+        "antifreeze",
+        "radiator coolant",
+        "coolant eka"
+    ],
+    "gear_oil": [
+        "gear oil",
+        "transmission fluid",
+        "gear oil eka"
+    ],
+    "grease": [
+        "grease",
+        "grease eka"
+    ],
+    "washing": [
+        "washing",
+        "car wash",
+        "vehicle wash"
+    ],
+    "polishing": [
+        "polishing",
+        "waxing",
+        "car polish",
+        "car wax"
+    ],
+    "service_ekak": [
+        "service",
+        "maintenance",
+        "car service",
+        "vehicle service",
+        "service eka"
+    ],
+    "repair_ekak": [
+        "repair",
+        "car repair",
+        "vehicle repair",
+        "repair eka"
+    ],
+    "nඩත්තු": [
+        "maintenance",
+        "upkeep",
+        "nadaththu"
+    ],
+    "garage_ekak": [
+        "garage",
+        "workshop",
+        "garage eka"
+    ],
+    "mechanic_bass": [
+        "mechanic",
+        "baas",
+        "mechanic bass"
+    ],
+    "anathura": [
+        "accident",
+        "crash",
+        "anathurak"
+    ],
+    "insurance_ekak": [
+        "insurance",
+        "vehicle insurance",
+        "car insurance",
+        "insurance eka"
+    ],
+    "license_ekak": [
+        "license",
+        "driving license",
+        "license eka"
+    ],
+    "regeestration_ekak": [
+        "registration",
+        "vehicle registration",
+        "registration eka"
+    ],
+    "parikshanaya": [
+        "inspection",
+        "test",
+        "vehicle inspection",
+        "parikshanayak"
+    ],
+    "dadayak": [
+        "fine",
+        "penalty",
+        "traffic fine",
+        "dadayak"
+    ],
+    "nawaththuma": [
+        "parking",
+        "nawaththumak"
+    ],
+    "maargaya": [
+        "road",
+        "street",
+        "para",
+        "maargayak"
+    ],
+    "maha_maargaya": [
+        "highway",
+        "main road",
+        "maha para"
+    ],
+    "adhiwege_maargaya": [
+        "expressway",
+        "motorway",
+        "highway eka"
+    ],
+    "manthiruwa": [
+        "lane",
+        "manthiruwak"
+    ],
+    "sandhiya": [
+        "junction",
+        "intersection",
+        "handiya"
+    ],
+    "rawuma": [
+        "roundabout",
+        "rawumak"
+    ],
+    "paalama": [
+        "bridge",
+        "paalamak"
+    ],
+    "boththuwa": [
+        "tunnel",
+        "boththuwak"
+    ],
+    "traffic_lights": [
+        "traffic lights",
+        "traffic light",
+        "signal"
+    ],
+    "riyahana_karanawa": [
+        "driving"
+    ],
+    "apassata_ganima": [
+        "reversing",
+        "backing up",
+        "reverse"
+    ],
+    "nawathwanawa": [
+        "stopping",
+        "parking"
+    ],
+    "harawanawa": [
+        "turning"
+    ],
+    "iru_maaru_karanawa": [
+        "overtaking",
+        "passing"
+    ],
+    "wegaya": [
+        "speed",
+        "velocity",
+        "wegayak"
+    ],
+    "thwaranaya": [
+        "acceleration"
+    ],
+    "mandanaya": [
+        "deceleration",
+        "braking"
+    ],
+    "toyota": [
+        "toyota",
+        "toyota ekak",
+        "toyota eka"
+    ],
+    "honda": [
+        "honda",
+        "honda ekak",
+        "honda eka"
+    ],
+    "suzuki": [
+        "suzuki",
+        "suzuki ekak",
+        "suzuki eka"
+    ],
+    "nissan": [
+        "nissan",
+        "nissan ekak",
+        "nissan eka"
+    ],
+    "mitsubishi": [
+        "mitsubishi",
+        "mitsubishi ekak",
+        "mitsubishi eka"
+    ],
+    "mazda": [
+        "mazda",
+        "mazda ekak",
+        "mazda eka"
+    ],
+    "subaru": [
+        "subaru",
+        "subaru ekak",
+        "subaru eka"
+    ],
+    "isuzu": [
+        "isuzu",
+        "isuzu ekak",
+        "isuzu eka"
+    ],
+    "daihatsu": [
+        "daihatsu",
+        "daihatsu ekak",
+        "daihatsu eka"
+    ],
+    "hyundai": [
+        "hyundai",
+        "hyundai ekak",
+        "hyundai eka"
+    ],
+    "kia": [
+        "kia",
+        "kia ekak",
+        "kia eka"
+    ],
+    "ssangyong": [
+        "ssangyong",
+        "ssangyong ekak",
+        "ssangyong eka"
+    ],
+    "daewoo": [
+        "daewoo",
+        "daewoo ekak",
+        "daewoo eka"
+    ],
+    "tata": [
+        "tata",
+        "tata ekak",
+        "tata eka"
+    ],
+    "mahindra": [
+        "mahindra",
+        "mahindra ekak",
+        "mahindra eka"
+    ],
+    "maruti": [
+        "maruti",
+        "maruti suzuki",
+        "maruti ekak"
+    ],
+    "ashok_leyland": [
+        "ashok leyland",
+        "leyland",
+        "ashok leyland ekak"
+    ],
+    "proton": [
+        "proton",
+        "proton ekak",
+        "proton eka"
+    ],
+    "perodua": [
+        "perodua",
+        "perodua ekak",
+        "perodua eka"
+    ],
+    "bmw": [
+        "bmw",
+        "bayerische motoren werke",
+        "bmw ekak",
+        "bmw eka"
+    ],
+    "mercedes_benz": [
+        "mercedes-benz",
+        "mercedes",
+        "benz",
+        "merc",
+        "mercedes eka"
+    ],
+    "audi": [
+        "audi",
+        "audi ekak",
+        "audi eka"
+    ],
+    "volkswagen": [
+        "volkswagen",
+        "vw",
+        "volkswagen ekak"
+    ],
+    "porsche": [
+        "porsche",
+        "porsche ekak",
+        "porsche eka"
+    ],
+    "opel": [
+        "opel",
+        "opel ekak",
+        "opel eka"
+    ],
+    "ford": [
+        "ford",
+        "ford ekak",
+        "ford eka"
+    ],
+    "chevrolet": [
+        "chevrolet",
+        "chevy",
+        "chevrolet ekak"
+    ],
+    "jeep": [
+        "jeep",
+        "jeep ekak",
+        "jeep eka"
+    ],
+    "chrysler": [
+        "chrysler",
+        "chrysler ekak"
+    ],
+    "dodge": [
+        "dodge",
+        "dodge ekak"
+    ],
+    "cadillac": [
+        "cadillac",
+        "cadillac ekak"
+    ],
+    "buick": [
+        "buick",
+        "buick ekak"
+    ],
+    "gmc": [
+        "gmc",
+        "gmc ekak"
+    ],
+    "tesla": [
+        "tesla",
+        "tesla ekak"
+    ],
+    "peugeot": [
+        "peugeot",
+        "peugeot ekak"
+    ],
+    "renault": [
+        "renault",
+        "renault ekak"
+    ],
+    "citroen": [
+        "citroën",
+        "citroen",
+        "citroen ekak"
+    ],
+    "fiat": [
+        "fiat",
+        "fiat ekak"
+    ],
+    "alfa_romeo": [
+        "alfa romeo",
+        "alfa",
+        "alfa romeo ekak"
+    ],
+    "lancia": [
+        "lancia",
+        "lancia ekak"
+    ],
+    "ferrari": [
+        "ferrari",
+        "ferrari ekak"
+    ],
+    "lamborghini": [
+        "lamborghini",
+        "lambo",
+        "lamborghini ekak"
+    ],
+    "maserati": [
+        "maserati",
+        "maserati ekak"
+    ],
+    "volvo": [
+        "volvo",
+        "volvo ekak"
+    ],
+    "saab": [
+        "saab",
+        "saab ekak"
+    ],
+    "scania": [
+        "scania",
+        "scania ekak"
+    ],
+    "jaguar": [
+        "jaguar",
+        "jag",
+        "jaguar ekak"
+    ],
+    "land_rover": [
+        "land rover",
+        "land rover ekak"
+    ],
+    "range_rover": [
+        "range rover",
+        "range rover ekak"
+    ],
+    "mini": [
+        "mini",
+        "mini cooper",
+        "mini ekak"
+    ],
+    "rolls_royce": [
+        "rolls-royce",
+        "rolls",
+        "rolls royce ekak"
+    ],
+    "bentley": [
+        "bentley",
+        "bentley ekak"
+    ],
+    "aston_martin": [
+        "aston martin",
+        "aston martin ekak"
+    ],
+    "mclaren": [
+        "mclaren",
+        "mclaren ekak"
+    ],
+    "lotus": [
+        "lotus",
+        "lotus ekak"
+    ],
+    "lexus": [
+        "lexus",
+        "lexus ekak"
+    ],
+    "acura": [
+        "acura",
+        "acura ekak"
+    ],
+    "infiniti": [
+        "infiniti",
+        "infiniti ekak"
+    ],
+    "genesis": [
+        "genesis",
+        "genesis ekak"
+    ],
+    "geely": [
+        "geely",
+        "geely ekak"
+    ],
+    "byd": [
+        "byd",
+        "byd ekak"
+    ],
+    "chery": [
+        "chery",
+        "chery ekak"
+    ],
+    "great_wall": [
+        "great wall",
+        "gwm",
+        "great wall ekak"
+    ],
+    "haval": [
+        "haval",
+        "haval ekak"
+    ],
+    "mg": [
+        "mg",
+        "morris garages",
+        "mg ekak"
+    ],
+    "roewe": [
+        "roewe",
+        "roewe ekak"
+    ],
+    "vinfast": [
+        "vinfast",
+        "vinfast ekak"
+    ],
+    "skoda": [
+        "škoda",
+        "skoda",
+        "skoda ekak"
+    ],
+    "seat": [
+        "seat",
+        "seat ekak"
+    ],
+    "dacia": [
+        "dacia",
+        "dacia ekak"
+    ],
+    "lada": [
+        "lada",
+        "lada ekak"
+    ],
+    "bugatti": [
+        "bugatti",
+        "bugatti ekak"
+    ],
+    "koenigsegg": [
+        "koenigsegg",
+        "koenigsegg ekak"
+    ],
+    "pagani": [
+        "pagani",
+        "pagani ekak"
+    ],
+    "rimac": [
+        "rimac",
+        "rimac ekak"
+    ],
+    "lucid": [
+        "lucid",
+        "lucid ekak"
+    ],
+    "rivian": [
+        "rivian",
+        "rivian ekak"
+    ],
+    "polestar": [
+        "polestar",
+        "polestar ekak"
+    ],
+    "abarth": [
+        "abarth",
+        "abarth ekak"
+    ],
+    "alpine": [
+        "alpine",
+        "alpine ekak"
+    ],
+    "cupra": [
+        "cupra",
+        "cupra ekak"
+    ],
+    "ds_automobiles": [
+        "ds automobiles",
+        "ds",
+        "ds ekak"
+    ],
+    "mahindra_marazzo": [
+        "mahindra marazzo",
+        "marazzo",
+        "marazzo ekak"
+    ],
+    "tata_nexon": [
+        "tata nexon",
+        "nexon",
+        "nexon ekak"
+    ],
+    "tata_harrier": [
+        "tata harrier",
+        "harrier",
+        "harrier ekak"
+    ],
+    "tata_safari": [
+        "tata safari",
+        "safari",
+        "safari eka"
+    ],
+    "hyundai_creta": [
+        "hyundai creta",
+        "creta",
+        "creta eka"
+    ],
+    "hyundai_venue": [
+        "hyundai venue",
+        "venue",
+        "venue eka"
+    ],
+    "kia_seltos": [
+        "kia seltos",
+        "seltos",
+        "seltos eka"
+    ],
+    "kia_sonet": [
+        "kia sonet",
+        "sonet",
+        "sonet eka"
+    ],
+    "suzuki_swift": [
+        "suzuki swift",
+        "swift",
+        "swift eka"
+    ],
+    "suzuki_alto": [
+        "suzuki alto",
+        "alto",
+        "alto eka"
+    ],
+    "suzuki_wagon_r": [
+        "suzuki wagon r",
+        "wagon r",
+        "wagon r eka"
+    ],
+    "suzuki_vitara": [
+        "suzuki vitara",
+        "vitara",
+        "vitara eka"
+    ],
+    "toyota_corolla": [
+        "toyota corolla",
+        "corolla",
+        "corolla eka"
+    ],
+    "toyota_camry": [
+        "toyota camry",
+        "camry",
+        "camry eka"
+    ],
+    "toyota_land_cruiser": [
+        "toyota land cruiser",
+        "land cruiser",
+        "land cruiser eka"
+    ],
+    "toyota_hilux": [
+        "toyota hilux",
+        "hilux",
+        "hilux eka"
+    ],
+    "honda_civic": [
+        "honda civic",
+        "civic",
+        "civic eka"
+    ],
+    "honda_crv": [
+        "honda cr-v",
+        "crv",
+        "crv eka"
+    ],
+    "nissan_sunny": [
+        "nissan sunny",
+        "sunny",
+        "sunny eka"
+    ],
+    "nissan_patrol": [
+        "nissan patrol",
+        "patrol",
+        "patrol eka"
+    ],
+    "mitsubishi_lancer": [
+        "mitsubishi lancer",
+        "lancer",
+        "lancer eka"
+    ],
+    "mitsubishi_pajero": [
+        "mitsubishi pajero",
+        "pajero",
+        "pajero eka"
+    ],
+    "ford_ranger": [
+        "ford ranger",
+        "ranger",
+        "ranger eka"
+    ],
+    "ford_everest": [
+        "ford everest",
+        "everest",
+        "everest eka"
+    ],
+    "isuzu_dmax": [
+        "isuzu d-max",
+        "dmax",
+        "d-max eka"
+    ],
+    "bmw_3_series": [
+        "bmw 3 series",
+        "3 series",
+        "3 series eka"
+    ],
+    "bmw_5_series": [
+        "bmw 5 series",
+        "5 series",
+        "5 series eka"
+    ],
+    "bmw_x5": [
+        "bmw x5",
+        "x5",
+        "x5 eka"
+    ],
+    "mercedes_c_class": [
+        "mercedes-benz c-class",
+        "c class",
+        "c-class",
+        "c class eka"
+    ],
+    "mercedes_e_class": [
+        "mercedes-benz e-class",
+        "e class",
+        "e-class",
+        "e class eka"
+    ],
+    "mercedes_g_class": [
+        "mercedes-benz g-class",
+        "g class",
+        "g-class",
+        "g wagon",
+        "g class eka"
+    ],
+    "audi_a4": [
+        "audi a4",
+        "a4",
+        "a4 eka"
+    ],
+    "audi_a6": [
+        "audi a6",
+        "a6",
+        "a6 eka"
+    ],
+    "audi_q7": [
+        "audi q7",
+        "q7",
+        "q7 eka"
+    ],
+    "volkswagen_golf": [
+        "volkswagen golf",
+        "golf",
+        "golf eka"
+    ],
+    "volkswagen_passat": [
+        "volkswagen passat",
+        "passat",
+        "passat eka"
+    ],
+    "volvo_xc90": [
+        "volvo xc90",
+        "xc90",
+        "xc90 eka"
+    ],
+    "land_rover_defender": [
+        "land rover defender",
+        "defender",
+        "defender eka"
+    ],
+    "range_rover_evoque": [
+        "range rover evoque",
+        "evoque",
+        "evoque eka"
+    ],
+    "porsche_911": [
+        "porsche 911",
+        "911",
+        "911 eka"
+    ],
+    "porsche_cayenne": [
+        "porsche cayenne",
+        "cayenne",
+        "cayenne eka"
+    ],
+    "tesla_model_3": [
+        "tesla model 3",
+        "model 3",
+        "model 3 eka"
+    ],
+    "tesla_model_s": [
+        "tesla model s",
+        "model s",
+        "model s eka"
+    ],
+    "tesla_model_x": [
+        "tesla model x",
+        "model x",
+        "model x eka"
+    ],
+    "tesla_model_y": [
+        "tesla model y",
+        "model y",
+        "model y eka"
+    ],
+    "ignition_coil": [
+        "ignition coil",
+        "coil pack",
+        "ignition coil eka"
+    ],
+    "camshaft": [
+        "camshaft",
+        "cam",
+        "camshaft eka"
+    ],
+    "crankshaft": [
+        "crankshaft",
+        "crank",
+        "crankshaft eka"
+    ],
+    "engine_block": [
+        "engine block",
+        "cylinder block",
+        "engine block eka"
+    ],
+    "cylinder_head": [
+        "cylinder head",
+        "head",
+        "cylinder head eka"
+    ],
+    "head_gasket": [
+        "head gasket",
+        "gasket",
+        "head gasket eka"
+    ],
+    "oil_pan": [
+        "oil pan",
+        "sump",
+        "oil pan eka"
+    ],
+    "water_pump": [
+        "water pump",
+        "water pump eka"
+    ],
+    "thermostat": [
+        "thermostat",
+        "thermostat eka"
+    ],
+    "radiator_hose": [
+        "radiator hose",
+        "hose",
+        "radiator hose eka"
+    ],
+    "serpentine_belt": [
+        "serpentine belt",
+        "drive belt",
+        "serpentine belt eka"
+    ],
+    "distributor": [
+        "distributor",
+        "distributor eka"
+    ],
+    "ecu": [
+        "ecu",
+        "engine control unit",
+        "computer box",
+        "ecu eka"
+    ],
+    "tcu": [
+        "tcu",
+        "transmission control unit",
+        "gearbox computer",
+        "tcu eka"
+    ],
+    "abs_module": [
+        "abs module",
+        "anti-lock braking system module",
+        "abs pump",
+        "abs module eka"
+    ],
+    "oxygen_sensor": [
+        "oxygen sensor",
+        "o2 sensor",
+        "lambda sensor",
+        "oxygen sensor eka"
+    ],
+    "mass_air_flow_sensor": [
+        "mass air flow sensor",
+        "maf sensor",
+        "air flow meter",
+        "maf sensor eka"
+    ],
+    "throttle_position_sensor": [
+        "throttle position sensor",
+        "tps",
+        "tps sensor",
+        "tps eka"
+    ],
+    "crankshaft_position_sensor": [
+        "crankshaft position sensor",
+        "crank sensor",
+        "crankshaft sensor eka"
+    ],
+    "camshaft_position_sensor": [
+        "camshaft position sensor",
+        "cam sensor",
+        "camshaft sensor eka"
+    ],
+    "knock_sensor": [
+        "knock sensor",
+        "knock sensor eka"
+    ],
+    "fuel_rail": [
+        "fuel rail",
+        "fuel rail eka"
+    ],
+    "fuel_pressure_regulator": [
+        "fuel pressure regulator",
+        "fuel pressure regulator eka"
+    ],
+    "flywheel": [
+        "flywheel",
+        "flywheel eka"
+    ],
+    "torque_converter": [
+        "torque converter",
+        "torque converter eka"
+    ],
+    "transmission_fluid": [
+        "transmission fluid",
+        "atf",
+        "gear oil",
+        "transmission oil"
+    ],
+    "clutch_plate": [
+        "clutch plate",
+        "clutch disc",
+        "clutch plate eka"
+    ],
+    "pressure_plate": [
+        "pressure plate",
+        "clutch cover",
+        "pressure plate eka"
+    ],
+    "release_bearing": [
+        "release bearing",
+        "clutch bearing",
+        "release bearing eka"
+    ],
+    "gear": [
+        "gear",
+        "cog",
+        "gear wheel",
+        "gear eka"
+    ],
+    "synchromesh": [
+        "synchromesh",
+        "synchro",
+        "synchromesh eka"
+    ],
+    "universal_joint": [
+        "universal joint",
+        "u-joint",
+        "spider joint",
+        "universal joint eka"
+    ],
+    "ball_joint": [
+        "ball joint",
+        "ball joint eka"
+    ],
+    "tie_rod_end": [
+        "tie rod end",
+        "tie rod",
+        "tie rod end eka"
+    ],
+    "control_arm": [
+        "control arm",
+        "a-arm",
+        "wishbone",
+        "control arm eka"
+    ],
+    "sway_bar": [
+        "sway bar",
+        "anti-roll bar",
+        "stabilizer bar",
+        "sway bar eka"
+    ],
+    "wheel_bearing": [
+        "wheel bearing",
+        "bearing",
+        "wheel bearing eka"
+    ],
+    "lug_nuts": [
+        "lug nuts",
+        "wheel nuts",
+        "lug nut"
+    ],
+    "valve_stem": [
+        "valve stem",
+        "tire valve",
+        "valve stem eka"
+    ],
+    "tire_pressure": [
+        "tire pressure",
+        "tyre pressure",
+        "air pressure"
+    ],
+    "wheel_alignment": [
+        "wheel alignment",
+        "alignment"
+    ],
+    "wheel_balancing": [
+        "wheel balancing",
+        "balancing"
+    ],
+    "abs": [
+        "abs",
+        "anti-lock braking system"
+    ],
+    "ebd": [
+        "ebd",
+        "electronic brakeforce distribution"
+    ],
+    "ba": [
+        "ba",
+        "brake assist"
+    ],
+    "esp": [
+        "esp",
+        "electronic stability program"
+    ],
+    "traction_control": [
+        "traction control system",
+        "tcs",
+        "traction control"
+    ],
+    "hill_start_assist": [
+        "hill start assist"
+    ],
+    "cruise_control": [
+        "cruise control"
+    ],
+    "adaptive_cruise_control": [
+        "adaptive cruise control",
+        "acc"
+    ],
+    "gps": [
+        "gps",
+        "global positioning system",
+        "navigation"
+    ],
+    "navigation_system": [
+        "navigation system",
+        "sat nav",
+        "gps navigation"
+    ],
+    "bluetooth": [
+        "bluetooth"
+    ],
+    "usb_port": [
+        "usb port",
+        "usb"
+    ],
+    "aux_input": [
+        "aux input",
+        "aux"
+    ],
+    "infotainment_system": [
+        "infotainment system",
+        "infotainment",
+        "touchscreen stereo"
+    ],
+    "touchscreen": [
+        "touchscreen",
+        "touch screen",
+        "display"
+    ],
+    "reverse_camera": [
+        "reverse camera",
+        "backup camera",
+        "reversing camera",
+        "reverse cam"
+    ],
+    "parking_sensors": [
+        "parking sensors",
+        "reverse sensors"
+    ],
+    "keyless_entry": [
+        "keyless entry",
+        "smart key"
+    ],
+    "push_button_start": [
+        "push-button start",
+        "push start"
+    ],
+    "remote_start": [
+        "remote start"
+    ],
+    "sunroof": [
+        "sunroof",
+        "sun roof",
+        "sunroof eka"
+    ],
+    "moonroof": [
+        "moonroof",
+        "moon roof",
+        "moonroof eka"
+    ],
+    "panoramic_roof": [
+        "panoramic roof",
+        "panoramic sunroof"
+    ],
+    "roof_rack": [
+        "roof rack",
+        "roof carrier"
+    ],
+    "tow_hitch": [
+        "tow hitch",
+        "tow bar"
+    ],
+    "spoiler": [
+        "spoiler",
+        "wing"
+    ],
+    "body_kit": [
+        "body kit",
+        "skirting"
+    ],
+    "side_skirts": [
+        "side skirts",
+        "side skirt"
+    ],
+    "air_dam": [
+        "air dam",
+        "front spoiler"
+    ],
+    "hood_scoop": [
+        "hood scoop",
+        "bonnet scoop"
+    ],
+    "vin": [
+        "vin",
+        "vehicle identification number"
+    ],
+    "chassis_number": [
+        "chassis number",
+        "chassis no"
+    ],
+    "engine_number": [
+        "engine number",
+        "engine no"
+    ],
+    "car_enthusiast": [
+        "car enthusiast",
+        "petrolhead",
+        "car lover"
+    ],
+    "classic_car": [
+        "classic car",
+        "classic"
+    ],
+    "vintage_car": [
+        "vintage car",
+        "vintage"
+    ],
+    "muscle_car": [
+        "muscle car"
+    ],
+    "pony_car": [
+        "pony car"
+    ],
+    "hot_hatch": [
+        "hot hatch"
+    ],
+    "off_road_vehicle": [
+        "off-road vehicle",
+        "off road vehicle",
+        "4x4"
+    ],
+    "four_wheel_drive": [
+        "four-wheel drive",
+        "4x4",
+        "4wd",
+        "four wheel drive"
+    ],
+    "all_wheel_drive": [
+        "all-wheel drive",
+        "awd",
+        "all wheel drive"
+    ],
+    "front_wheel_drive": [
+        "front-wheel drive",
+        "fwd",
+        "front wheel drive"
+    ],
+    "rear_wheel_drive": [
+        "rear-wheel drive",
+        "rwd",
+        "rear wheel drive"
+    ],
+    "manual_transmission": [
+        "manual transmission",
+        "manual gear",
+        "stick shift"
+    ],
+    "automatic_transmission": [
+        "automatic transmission",
+        "auto gear",
+        "auto"
+    ],
+    "cvt": [
+        "cvt",
+        "continuously variable transmission"
+    ],
+    "dual_clutch_transmission": [
+        "dual-clutch transmission",
+        "dct"
+    ],
+    "hybrid_vehicle": [
+        "hybrid vehicle",
+        "hybrid car",
+        "hybrid"
+    ],
+    "electric_vehicle": [
+        "electric vehicle",
+        "ev",
+        "electric car"
+    ],
+    "plug_in_hybrid": [
+        "plug-in hybrid",
+        "phev"
+    ],
+    "hydrogen_fuel_cell": [
+        "hydrogen fuel cell vehicle",
+        "fcev",
+        "hydrogen car"
+    ],
+    "horsepower": [
+        "horsepower",
+        "hp",
+        "bhp"
+    ],
+    "torque": [
+        "torque"
+    ],
+    "rpm": [
+        "rpm",
+        "revolutions per minute"
+    ],
+    "mileage": [
+        "mileage",
+        "fuel efficiency",
+        "fuel consumption"
+    ],
+    "kilometers_per_liter": [
+        "kilometers per liter",
+        "km/l",
+        "kmpl"
+    ],
+    "top_speed": [
+        "top speed"
+    ],
+    "zero_to_hundred": [
+        "0-100 km/h",
+        "zero to sixty mph",
+        "acceleration"
+    ],
+    "car_dealership": [
+        "car dealership",
+        "car dealer",
+        "car sale"
+    ],
+    "showroom": [
+        "showroom",
+        "car showroom"
+    ],
+    "test_drive": [
+        "test drive"
+    ],
+    "used_car": [
+        "used car",
+        "second-hand car",
+        "reconditioned car"
+    ],
+    "new_car": [
+        "new car",
+        "brand new car"
+    ],
+    "car_loan": [
+        "car loan",
+        "auto loan",
+        "vehicle finance",
+        "leasing"
+    ],
+    "down_payment": [
+        "down payment"
+    ],
+    "installment": [
+        "installment",
+        "monthly payment"
+    ],
+    "resale_value": [
+        "resale value",
+        "market value"
+    ],
+    "depreciation": [
+        "depreciation"
+    ],
+    "car_wash": [
+        "car wash",
+        "vehicle wash"
+    ],
+    "detailing": [
+        "detailing",
+        "car detailing"
+    ],
+    "paint_protection": [
+        "paint protection film",
+        "ppf",
+        "ceramic coating"
+    ],
+    "ceramic_coating": [
+        "ceramic coating",
+        "nano coating"
+    ],
+    "car_cover": [
+        "car cover"
+    ],
+    "jack_stand": [
+        "jack stand",
+        "jack"
+    ],
+    "hydraulic_jack": [
+        "hydraulic jack",
+        "trolley jack"
+    ],
+    "wrench": [
+        "wrench",
+        "spanner"
+    ],
+    "socket_set": [
+        "socket set",
+        "socket wrench"
+    ],
+    "screwdriver": [
+        "screwdriver"
+    ],
+    "pliers": [
+        "pliers"
+    ],
+    "jump_start": [
+        "jump start",
+        "jumpstart"
+    ],
+    "jumper_cables": [
+        "jumper cables",
+        "jumper leads"
+    ],
+    "flat_tire": [
+        "flat tire",
+        "flat tyre",
+        "puncture"
+    ],
+    "spare_tire": [
+        "spare tire",
+        "spare wheel",
+        "spare tyre"
+    ],
+    "tire_puncture": [
+        "tire puncture",
+        "tyre puncture"
+    ],
+    "breakdown": [
+        "breakdown",
+        "vehicle breakdown"
+    ],
+    "towing_service": [
+        "towing service",
+        "towing"
+    ],
+    "roadside_assistance": [
+        "roadside assistance"
+    ],
+    "driver": [
+        "driver",
+        "riyaduru",
+        "driver kenek"
+    ],
+    "passenger": [
+        "passenger",
+        "magiya",
+        "passenger kenek"
+    ],
+    "pedestrian": [
+        "pedestrian",
+        "pa gaman yanna"
+    ],
+    "traffic_jam": [
+        "traffic jam",
+        "traffic congestion",
+        "traffic"
+    ],
+    "rush_hour": [
+        "rush hour"
+    ],
+    "road_sign": [
+        "road sign"
+    ],
+    "speed_limit": [
+        "speed limit"
+    ],
+    "no_parking_sign": [
+        "no parking sign",
+        "no parking"
+    ],
+    "one_way_street": [
+        "one-way street",
+        "one way"
+    ],
+    "dead_end": [
+        "dead end"
+    ],
+    "car_rental": [
+        "car rental",
+        "rent a car"
+    ],
+    "car_sharing": [
+        "car sharing"
+    ],
+    "ride_hailing": [
+        "ride-hailing service",
+        "taxi app",
+        "pickme",
+        "uber"
+    ],
+    "car_insurance_premium": [
+        "car insurance premium",
+        "insurance premium"
+    ],
+    "claim": [
+        "insurance claim",
+        "claim eka"
+    ],
+    "no_claim_bonus": [
+        "no-claim bonus",
+        "ncb"
+    ],
+    "comprehensive_insurance": [
+        "comprehensive insurance",
+        "full insurance"
+    ],
+    "third_party_insurance": [
+        "third-party insurance",
+        "3rd party insurance"
+    ],
+    "horsepower_bhp": [
+        "brake horsepower",
+        "bhp",
+        "horsepower"
+    ],
+    "newton_meter_nm": [
+        "newton-meter",
+        "nm",
+        "torque"
+    ],
+    "fuel_tank_capacity": [
+        "fuel tank capacity",
+        "tank capacity"
+    ],
+    "kerb_weight": [
+        "kerb weight"
+    ],
+    "gross_vehicle_weight": [
+        "gross vehicle weight",
+        "gvw"
+    ],
+    "payload": [
+        "payload"
+    ],
+    "wheelbase": [
+        "wheelbase"
+    ],
+    "ground_clearance": [
+        "ground clearance"
+    ],
+    "turning_radius": [
+        "turning radius"
+    ],
+    "headroom": [
+        "headroom"
+    ],
+    "legroom": [
+        "legroom"
+    ],
+    "shoulder_room": [
+        "shoulder room"
+    ],
+    "boot_space": [
+        "boot space",
+        "trunk capacity",
+        "dicky space"
+    ],
+    "upholstery": [
+        "upholstery",
+        "seat material"
+    ],
+    "leather_seats": [
+        "leather seats",
+        "leather seat"
+    ],
+    "fabric_seats": [
+        "fabric seats",
+        "fabric seat"
+    ],
+    "power_windows": [
+        "power windows",
+        "power window"
+    ],
+    "central_locking": [
+        "central locking",
+        "remote locking"
+    ],
+    "child_lock": [
+        "child lock"
+    ],
+    "isofix_child_seat_mounts": [
+        "isofix child seat mounts",
+        "isofix"
+    ],
+    "armrest": [
+        "armrest"
+    ],
+    "cup_holder": [
+        "cup holder",
+        "cup holders"
+    ],
+    "vanity_mirror": [
+        "vanity mirror"
+    ],
+    "reading_light": [
+        "reading light",
+        "cabin light"
+    ],
+    "ambient_lighting": [
+        "ambient lighting"
+    ],
+    "catalyst": [
+        "catalyst",
+        "catalytic"
+    ],
+    "exhaust_gas_recirculation": [
+        "exhaust gas recirculation",
+        "egr"
+    ],
+    "diesel_particulate_filter": [
+        "diesel particulate filter",
+        "dpf"
+    ],
+    "adblue": [
+        "adblue",
+        "diesel exhaust fluid",
+        "def"
+    ],
+    "engine_mount": [
+        "engine mount",
+        "engine mounting"
+    ],
+    "transmission_mount": [
+        "transmission mount",
+        "gearbox mount"
+    ],
+    "subframe": [
+        "subframe"
+    ],
+    "anti_roll_bar_link": [
+        "anti-roll bar link",
+        "stabilizer link"
+    ],
+    "steering_column": [
+        "steering column"
+    ],
+    "ignition_switch": [
+        "ignition switch",
+        "key switch"
+    ],
+    "fuse_box": [
+        "fuse box",
+        "fusebox"
+    ],
+    "fuse": [
+        "fuse",
+        "fuses"
+    ],
+    "relay": [
+        "relay",
+        "relays"
+    ],
+    "wiring_harness": [
+        "wiring harness",
+        "wiring"
+    ],
+    "battery_terminal": [
+        "battery terminal",
+        "battery terminals"
+    ],
+    "headlight_bulb": [
+        "headlight bulb",
+        "headlamp bulb",
+        "bulb"
+    ],
+    "halogen_bulb": [
+        "halogen bulb"
+    ],
+    "led_headlight": [
+        "led headlight",
+        "led light"
+    ],
+    "hid_headlight": [
+        "hid headlight",
+        "xenon headlight",
+        "hid"
+    ],
+    "door_handle": [
+        "door handle"
+    ],
+    "door_lock": [
+        "door lock",
+        "lock"
+    ],
+    "window_regulator": [
+        "window regulator",
+        "power window motor"
+    ],
+    "fuel_cap": [
+        "fuel cap",
+        "petrol cap",
+        "diesel cap"
+    ],
+    "radiator_cap": [
+        "radiator cap"
+    ],
+    "oil_cap": [
+        "oil cap"
+    ],
+    "dipstick": [
+        "dipstick",
+        "oil dipstick"
+    ],
+    "air_intake": [
+        "air intake"
+    ],
+    "cold_air_intake": [
+        "cold air intake"
+    ],
+    "short_ram_intake": [
+        "short ram intake"
+    ],
+    "exhaust_header": [
+        "exhaust header",
+        "headers"
+    ],
+    "downpipe": [
+        "downpipe"
+    ],
+    "cat_back_exhaust": [
+        "cat-back exhaust",
+        "cat back"
+    ],
+    "performance_chip": [
+        "performance chip",
+        "ecu tuning",
+        "chip tuning"
+    ],
+    "remap": [
+        "remap",
+        "ecu remapping"
+    ],
+    "dyno_tuning": [
+        "dyno tuning",
+        "dyno tune"
+    ],
+    "nitrous_oxide": [
+        "nitrous oxide",
+        "nos"
+    ],
+    "roll_cage": [
+        "roll cage"
+    ],
+    "racing_harness": [
+        "racing harness",
+        "racing seat belt"
+    ],
+    "bucket_seat": [
+        "bucket seat",
+        "racing seat"
+    ],
+    "short_shifter": [
+        "short shifter",
+        "short throw shifter"
+    ],
+    "limited_slip_differential": [
+        "limited-slip differential",
+        "lsd"
+    ],
+    "coilover": [
+        "coilover",
+        "coilovers"
+    ],
+    "strut_bar": [
+        "strut bar",
+        "strut brace"
+    ],
+    "big_brake_kit": [
+        "big brake kit"
+    ],
+    "braided_brake_lines": [
+        "braided brake lines",
+        "steel brake lines"
+    ],
+    "performance_tires": [
+        "performance tires",
+        "performance tyres"
+    ],
+    "slick_tires": [
+        "slick tires",
+        "slick tyres"
+    ],
+    "drag_racing": [
+        "drag racing",
+        "drag race"
+    ],
+    "circuit_racing": [
+        "circuit racing",
+        "circuit race"
+    ],
+    "rallying": [
+        "rallying",
+        "rally"
+    ],
+    "drifting": [
+        "drifting",
+        "drift"
+    ],
+    "autocross": [
+        "autocross"
+    ],
+    "track_day": [
+        "track day"
+    ],
+    "paddock": [
+        "paddock"
+    ],
+    "pit_lane": [
+        "pit lane"
+    ],
+    "chequered_flag": [
+        "chequered flag",
+        "checkered flag"
+    ],
+    "pole_position": [
+        "pole position"
+    ],
+    "fastest_lap": [
+        "fastest lap"
+    ],
+    "driver_error": [
+        "driver error"
+    ],
+    "mechanical_failure": [
+        "mechanical failure"
+    ],
+    "pit_stop": [
+        "pit stop"
+    ],
+    "chicano": [
+        "chicane"
+    ],
+    "apex": [
+        "apex"
+    ],
+    "hairpin_bend": [
+        "hairpin bend",
+        "hairpin"
+    ],
+    "oversteer": [
+        "oversteer"
+    ],
+    "understeer": [
+        "understeer"
+    ],
+    "grip": [
+        "grip",
+        "traction"
+    ],
+    "downforce": [
+        "downforce"
+    ],
+    "aerodynamics": [
+        "aerodynamics",
+        "aero"
+    ],
+    "drag_coefficient": [
+        "drag coefficient"
+    ],
+    "car_club": [
+        "car club"
+    ],
+    "car_meet": [
+        "car meet"
+    ],
+    "car_show": [
+        "car show"
+    ],
+    "concours_d_elegance": [
+        "concours d'elegance",
+        "car competition"
+    ],
+    "restoration": [
+        "restoration",
+        "car restoration"
+    ],
+    "restomod": [
+        "restomod"
+    ],
+    "project_car": [
+        "project car"
+    ],
+    "donor_car": [
+        "donor car"
+    ],
+    "scrapyard": [
+        "scrapyard",
+        "junkyard",
+        "scrap yard"
+    ],
+    "spare_parts": [
+        "spare parts",
+        "spares"
+    ],
+    "oem_parts": [
+        "oem parts",
+        "original equipment manufacturer parts",
+        "genuine parts"
+    ],
+    "aftermarket_parts": [
+        "aftermarket parts",
+        "replacement parts"
+    ],
+    "car_manual": [
+        "car manual",
+        "owner's manual"
+    ],
+    "workshop_manual": [
+        "workshop manual",
+        "service manual"
+    ],
+    "diagnostic_tool": [
+        "diagnostic tool",
+        "obd scanner",
+        "scanner"
+    ],
+    "error_code": [
+        "error code",
+        "fault code",
+        "dtc"
+    ],
+    "check_engine_light": [
+        "check engine light",
+        "malfunction indicator lamp"
+    ],
+    "car_key": [
+        "car key",
+        "key"
+    ],
+    "key_fob": [
+        "key fob",
+        "remote key"
+    ],
+    "transponder_key": [
+        "transponder key"
+    ],
+    "valet_mode": [
+        "valet mode"
+    ],
+    "car_alarm": [
+        "car alarm",
+        "alarm system"
+    ],
+    "immobilizer": [
+        "immobilizer"
+    ],
+    "gps_tracker": [
+        "gps tracker",
+        "gps tracking"
+    ],
+    "dashcam": [
+        "dashcam",
+        "dash camera"
+    ],
+    "car_polish": [
+        "car polish",
+        "polish"
+    ],
+    "car_wax": [
+        "car wax",
+        "wax"
+    ],
+    "microfiber_towel": [
+        "microfiber towel",
+        "microfiber cloth"
+    ],
+    "car_shampoo": [
+        "car shampoo"
+    ],
+    "wheel_cleaner": [
+        "wheel cleaner",
+        "alloy wheel cleaner"
+    ],
+    "tire_shine": [
+        "tire shine",
+        "tyre shine",
+        "tyre polish"
+    ],
+    "interior_cleaner": [
+        "interior cleaner",
+        "dashboard cleaner"
+    ],
+    "glass_cleaner": [
+        "glass cleaner",
+        "windshield cleaner"
+    ],
+    "clay_bar": [
+        "clay bar"
+    ],
+    "paint_sealant": [
+        "paint sealant"
+    ],
+    "buffer": [
+        "buffer",
+        "polisher"
+    ],
+    "pressure_washer": [
+        "pressure washer"
+    ],
+    "air_compressor": [
+        "air compressor",
+        "compressor"
+    ],
+    "tire_inflator": [
+        "tire inflator",
+        "tyre inflator",
+        "air pump"
+    ],
+    "tire_pressure_gauge": [
+        "tire pressure gauge",
+        "tyre pressure gauge"
+    ],
+    "battery_charger": [
+        "battery charger"
+    ],
+    "multimeter": [
+        "multimeter"
+    ],
+    "creeper": [
+        "creeper"
+    ],
+    "oil_drain_pan": [
+        "oil drain pan"
+    ],
+    "funnel": [
+        "funnel"
+    ],
+    "torque_wrench": [
+        "torque wrench"
+    ],
+    "impact_wrench": [
+        "impact wrench"
+    ],
+    "car_lift": [
+        "car lift",
+        "hoist"
+    ],
+    "emission_test": [
+        "emission test",
+        "smoke test"
+    ],
+    "road_tax": [
+        "road tax",
+        "vehicle tax"
+    ],
+    "vehicle_registration_certificate": [
+        "vehicle registration certificate",
+        "book",
+        "cr"
+    ],
+    "international_driving_permit": [
+        "international driving permit",
+        "idp"
+    ],
+    "traffic_warden": [
+        "traffic warden"
+    ],
+    "traffic_police": [
+        "traffic police",
+        "police"
+    ],
+    "speed_camera": [
+        "speed camera"
+    ],
+    "breathalyzer": [
+        "breathalyzer"
+    ],
+    "accident_report": [
+        "accident report"
+    ],
+    "hit_and_run": [
+        "hit and run"
+    ],
+    "fender_bender": [
+        "fender bender"
+    ],
+    "total_loss": [
+        "total loss",
+        "write-off"
+    ],
+    "salvage_title": [
+        "salvage title"
+    ],
+    "car_auction": [
+        "car auction",
+        "auction"
+    ],
+    "car_importer": [
+        "car importer"
+    ],
+    "car_exporter": [
+        "car exporter"
+    ],
+    "left_hand_drive": [
+        "left-hand drive",
+        "lhd"
+    ],
+    "right_hand_drive": [
+        "right-hand drive",
+        "rhd"
+    ],
+    "autonomous_driving": [
+        "autonomous driving",
+        "self-driving"
+    ],
+    "driver_assist": [
+        "driver-assist systems",
+        "adas"
+    ],
+    "lane_keeping_assist": [
+        "lane keeping assist",
+        "lka"
+    ],
+    "blind_spot_monitoring": [
+        "blind spot monitoring",
+        "bsm"
+    ],
+    "rear_cross_traffic_alert": [
+        "rear cross-traffic alert"
+    ],
+    "automatic_emergency_braking": [
+        "automatic emergency braking",
+        "aeb"
+    ],
+    "forward_collision_warning": [
+        "forward collision warning",
+        "fcw"
+    ],
+    "adaptive_headlights": [
+        "adaptive headlights"
+    ],
+    "automatic_high_beams": [
+        "automatic high beams"
+    ],
+    "night_vision": [
+        "night vision"
+    ],
+    "head_up_display": [
+        "head-up display",
+        "hud"
+    ],
+    "digital_instrument_cluster": [
+        "digital instrument cluster",
+        "digital dash"
+    ],
+    "wireless_charging": [
+        "wireless charging"
+    ],
+    "apple_carplay": [
+        "apple carplay"
+    ],
+    "android_auto": [
+        "android auto"
+    ],
+    "connected_car_tech": [
+        "connected car technology"
+    ],
+    "telematics": [
+        "telematics"
+    ],
+    "over_the_air_updates": [
+        "over-the-air updates",
+        "ota"
+    ],
+    "electric_motor": [
+        "electric motor"
+    ],
+    "battery_pack": [
+        "battery pack"
+    ],
+    "lithium_ion_battery": [
+        "lithium-ion battery",
+        "li-ion battery"
+    ],
+    "charging_port": [
+        "charging port"
+    ],
+    "charging_station": [
+        "charging station"
+    ],
+    "level_1_charger": [
+        "level 1 charger"
+    ],
+    "level_2_charger": [
+        "level 2 charger"
+    ],
+    "dc_fast_charger": [
+        "dc fast charger",
+        "level 3 charger"
+    ],
+    "range_anxiety": [
+        "range anxiety"
+    ],
+    "regenerative_braking": [
+        "regenerative braking"
+    ],
+    "one_pedal_driving": [
+        "one-pedal driving"
+    ],
+    "battery_management_system": [
+        "battery management system",
+        "bms"
+    ],
+    "thermal_management": [
+        "thermal management system"
+    ],
+    "ev_range": [
+        "ev range",
+        "range"
+    ],
+    "kwh": [
+        "kilowatt-hour",
+        "kwh"
+    ],
+    "mpge": [
+        "miles per gallon equivalent",
+        "mpge"
+    ],
+    "internal_combustion_engine": [
+        "internal combustion engine",
+        "ice"
+    ],
+    "mild_hybrid": [
+        "mild hybrid",
+        "mhev"
+    ],
+    "full_hybrid": [
+        "full hybrid",
+        "hev"
+    ],
+    "fuel_economy": [
+        "fuel economy",
+        "mileage"
+    ],
+    "emissions": [
+        "emissions"
+    ],
+    "co2_emissions": [
+        "co2 emissions"
+    ],
+    "euro_emission_standards": [
+        "euro emission standards"
+    ],
+    "concept_car": [
+        "concept car"
+    ],
+    "prototype": [
+        "prototype"
+    ],
+    "pre_production_car": [
+        "pre-production car"
+    ],
+    "homologation": [
+        "homologation"
+    ],
+    "car_platform": [
+        "car platform",
+        "chassis architecture",
+        "platform"
+    ],
+    "unibody_construction": [
+        "unibody construction"
+    ],
+    "body_on_frame_construction": [
+        "body-on-frame construction"
+    ],
+    "carbon_fiber_monocoque": [
+        "carbon fiber monocoque"
+    ],
+    "space_frame": [
+        "space frame"
+    ],
+    "active_suspension": [
+        "active suspension"
+    ],
+    "air_suspension": [
+        "air suspension"
+    ],
+    "magnetic_ride_control": [
+        "magnetic ride control"
+    ],
+    "active_aerodynamics": [
+        "active aerodynamics"
+    ],
+    "rear_wheel_steering": [
+        "rear-wheel steering"
+    ],
+    "torque_vectoring": [
+        "torque vectoring"
+    ],
+    "launch_control": [
+        "launch control"
+    ],
+    "drive_modes": [
+        "drive modes",
+        "eco, comfort, sport"
+    ],
+    "car_key_battery": [
+        "car key battery",
+        "remote battery"
+    ],
+    "oil_change": [
+        "oil change",
+        "oil service"
+    ],
+    "tire_rotation": [
+        "tire rotation",
+        "tyre rotation"
+    ],
+    "brake_fluid_flush": [
+        "brake fluid flush",
+        "brake oil change"
+    ],
+    "coolant_flush": [
+        "coolant flush",
+        "coolant change"
+    ],
+    "spark_plug_replacement": [
+        "spark plug replacement"
+    ],
+    "air_filter_replacement": [
+        "air filter replacement"
+    ],
+    "cabin_air_filter_replacement": [
+        "cabin air filter replacement",
+        "ac filter replacement"
+    ],
+    "timing_belt_replacement": [
+        "timing belt replacement"
+    ],
+    "water_pump_replacement": [
+        "water pump replacement"
+    ],
+    "clutch_replacement": [
+        "clutch replacement",
+        "clutch overhaul"
+    ],
+    "engine_overhaul": [
+        "engine overhaul",
+        "engine rebuild"
+    ],
+    "transmission_rebuild": [
+        "transmission rebuild",
+        "gearbox repair"
+    ],
+    "paint_job": [
+        "paint job",
+        "car painting"
+    ],
+    "dent_removal": [
+        "dent removal",
+        "tinkering"
+    ],
+    "scratch_repair": [
+        "scratch repair"
+    ],
+    "windshield_replacement": [
+        "windshield replacement"
+    ],
+    "upholstery_repair": [
+        "upholstery repair"
+    ],
+    "rust_proofing": [
+        "rust proofing"
+    ],
+    "undercoating": [
+        "undercoating"
+    ],
+    "car_accessories": [
+        "car accessories",
+        "accessories"
+    ],
+    "phone_mount": [
+        "phone mount",
+        "phone holder"
+    ],
+    "roof_box": [
+        "roof box"
+    ],
+    "bike_rack": [
+        "bike rack"
+    ],
+    "seat_covers": [
+        "seat covers",
+        "seat cover"
+    ],
+    "steering_wheel_cover": [
+        "steering wheel cover"
+    ],
+    "car_organizer": [
+        "car organizer"
+    ],
+    "trash_can": [
+        "car trash can"
+    ],
+    "emergency_kit": [
+        "emergency kit"
+    ],
+    "first_aid_kit": [
+        "first aid kit"
+    ],
+    "fire_extinguisher": [
+        "fire extinguisher"
+    ],
+    "warning_triangle": [
+        "warning triangle"
+    ],
+    "high_visibility_vest": [
+        "high-visibility vest"
+    ],
+    "car_vacuum": [
+        "car vacuum cleaner",
+        "car vacuum"
+    ],
+    "car_fridge": [
+        "car fridge"
+    ],
+    "travel_pillow": [
+        "travel pillow"
+    ],
+    "car_inverter": [
+        "car power inverter",
+        "inverter"
+    ],
+    "catalytic_converter_theft": [
+        "catalytic converter theft"
+    ],
+    "carjacking": [
+        "carjacking"
+    ],
+    "road_rage": [
+        "road rage"
+    ],
+    "tailgating": [
+        "tailgating"
+    ],
+    "distracted_driving": [
+        "distracted driving"
+    ],
+    "drunk_driving": [
+        "drunk driving",
+        "dui"
+    ],
+    "speeding_ticket": [
+        "speeding ticket"
+    ],
+    "parking_ticket": [
+        "parking ticket"
+    ],
+    "moving_violation": [
+        "moving violation"
+    ],
+    "points_on_license": [
+        "points on license"
+    ],
+    "driving_school": [
+        "driving school",
+        "learners"
+    ],
+    "driving_instructor": [
+        "driving instructor"
+    ],
+    "driving_test": [
+        "driving test",
+        "trial"
+    ],
+    "learner_s_permit": [
+        "learner's permit",
+        "learners"
+    ],
+    "probationary_license": [
+        "probationary license"
+    ],
+    "defensive_driving": [
+        "defensive driving"
+    ],
+    "skid_control": [
+        "skid control"
+    ],
+    "emergency_braking": [
+        "emergency braking"
+    ],
+    "caravan": [
+        "caravan",
+        "camper"
+    ],
+    "motorhome": [
+        "motorhome",
+        "rv"
+    ],
+    "tow_truck": [
+        "tow truck"
+    ],
+    "flatbed_truck": [
+        "flatbed truck"
+    ],
+    "dump_truck": [
+        "dump truck"
+    ],
+    "cement_mixer": [
+        "cement mixer"
+    ],
+    "garbage_truck": [
+        "garbage truck"
+    ],
+    "tanker_truck": [
+        "tanker truck"
+    ],
+    "car_carrier": [
+        "car carrier"
+    ],
+    "go_kart": [
+        "go-kart"
+    ],
+    "atv": [
+        "atv",
+        "all-terrain vehicle"
+    ],
+    "utv": [
+        "utv",
+        "utility task vehicle"
+    ],
+    "snowmobile": [
+        "snowmobile"
+    ],
+    "golf_cart": [
+        "golf cart"
+    ],
+    "forklift": [
+        "forklift"
+    ],
+    "street_sweeper": [
+        "street sweeper"
+    ],
+    "fuel_nozzle": [
+        "fuel nozzle"
+    ],
+    "gas_station": [
+        "gas station",
+        "petrol station",
+        "filling station",
+        "petrol shed"
+    ],
+    "service_station": [
+        "service station"
+    ],
+    "car_ferry": [
+        "car ferry"
+    ],
+    "drive_through": [
+        "drive-through"
+    ],
+    "multi_storey_car_park": [
+        "multi-storey car park",
+        "parking building"
+    ],
+    "underground_parking": [
+        "underground parking"
+    ],
+    "parking_meter": [
+        "parking meter"
+    ],
+    "parking_garage": [
+        "parking garage"
+    ],
+    "valet_parking": [
+        "valet parking"
+    ],
+    "toll_road": [
+        "toll road"
+    ],
+    "toll_booth": [
+        "toll booth",
+        "toll gate"
+    ],
+    "electronic_toll_collection": [
+        "electronic toll collection",
+        "etc"
+    ],
+    "traffic_cone": [
+        "traffic cone"
+    ],
+    "roadblock": [
+        "roadblock"
+    ],
+    "detour": [
+        "detour"
+    ],
+    "road_work": [
+        "road work",
+        "road construction"
+    ],
+    "pothole": [
+        "pothole"
+    ],
+    "speed_bump": [
+        "speed bump",
+        "road hump"
+    ],
+    "rumble_strips": [
+        "rumble strips"
+    ],
+    "cat_s_eye": [
+        "cat's eye",
+        "road stud"
+    ],
+    "guardrail": [
+        "guardrail"
+    ],
+    "median_strip": [
+        "median strip"
+    ],
+    "hard_shoulder": [
+        "hard shoulder",
+        "emergency lane"
+    ],
+    "rest_area": [
+        "rest area",
+        "service area"
+    ],
+    "scenic_lookout": [
+        "scenic lookout"
+    ],
+    "carpool_lane": [
+        "carpool lane",
+        "hov lane"
+    ],
+    "bus_lane": [
+        "bus lane"
+    ],
+    "cycle_lane": [
+        "cycle lane"
+    ],
+    "zebra_crossing": [
+        "zebra crossing",
+        "pedestrian crossing"
+    ]
+}
