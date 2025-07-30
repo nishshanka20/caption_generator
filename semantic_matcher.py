@@ -18,22 +18,12 @@ class SemanticMatcher:
         return keywords
 
     def find_best_match(self, keywords: List[str], detected_objects: List[Dict]) -> Dict | None:
-        """
-        Finds the best detected object match for the extracted keywords using cosine similarity.
-
-        Args:
-            keywords (List[str]): Keywords extracted from the user prompt.
-            detected_objects (List[Dict]): Objects detected by YOLO.
-
-        Returns:
-            Dict or None: The dictionary of the best matching object, or None if no match.
-        """
+        
         if not detected_objects:
             return None
 
         detected_labels = [obj['label'] for obj in detected_objects]
         
-        # If no specific keywords are found in the prompt, use the whole prompt for matching
         if not keywords:
             print("   - No specific keywords found, using the entire prompt for matching.")
             keywords = [ "car", "vehicle" ] # Default to common terms if prompt is generic
@@ -45,8 +35,6 @@ class SemanticMatcher:
         # Calculate cosine similarity between each keyword and each detected label
         cosine_scores = util.cos_sim(keyword_embeddings, label_embeddings)
 
-        # Find the detected object that has the highest average score across all keywords
-        # This helps prioritize objects that match more of the user's intent
         average_scores = torch.mean(cosine_scores, dim=0)
         best_match_index = torch.argmax(average_scores).item()
         best_match_score = average_scores[best_match_index].item()

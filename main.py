@@ -1,10 +1,11 @@
-# file: main.py
+
 
 from fastapi import FastAPI, File, UploadFile, Form, HTTPException
 from typing import Dict
 from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware  # <-- 1. Import the middleware
 
-# Import the model manager instance and utility functions
+# Import your project modules
 from models.loader import models
 from logic.pipeline import run_pipeline
 from utils import load_vehicle_parts
@@ -15,13 +16,24 @@ app = FastAPI(
     version="1.0.0"
 )
 
+# --- 2. Add the CORS Middleware ---
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],  # Allows all origins
+    allow_credentials=True,
+    allow_methods=["*"],  # Allows all methods (GET, POST, etc.)
+    allow_headers=["*"],  # Allows all headers
+)
+# --------------------------------
+
 class CaptionResponse(BaseModel):
     matched_object: str
     caption: str
+    annotated_image_base64: str
+    cropped_image_base64: str
 
 @app.on_event("startup")
 async def startup_event():
-    """On startup, load all the ML models by calling the manager's method."""
     models.load_all()
 
 VEHICLE_VOCAB = load_vehicle_parts("vehicle_parts_2.json")
@@ -34,7 +46,7 @@ async def read_root():
 @app.post("/caption/", response_model=CaptionResponse, tags=["Captioning"])
 async def create_caption(
     image: UploadFile = File(..., description="The image file to process."),
-    prompt: str = Form(..., description="A text prompt describing the object of interest (e.g., 'the car headlight').")
+    prompt: str = Form(..., description="A text prompt describing the object of interest.")
 ) -> Dict:
     image_bytes = await image.read()
     result = run_pipeline(
@@ -44,5 +56,5 @@ async def create_caption(
     )
     if "error" in result:
         raise HTTPException(status_code=404, detail=result["error"])
-
+    
     return result

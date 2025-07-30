@@ -322,6 +322,9 @@
         "tire",
         "tyre",
         "rodha",
+        "rodaya",
+        "rode",
+        "rodhaya",
         "wheel eka"
     ],
     "tayara": [
@@ -504,6 +507,8 @@
     ],
     "headlight ekak": [
         "headlight",
+        "frontlight",
+        "front headlight",
         "headlamp",
         "head light",
         "headlight eka"
